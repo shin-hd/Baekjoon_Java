@@ -1,4 +1,4 @@
-package _24416;
+package dynamicprogramming._24416;
 
 /*
  * 피보나치 수 1

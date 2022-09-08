@@ -1,4 +1,4 @@
-package _9184;
+package dynamicprogramming._9184;
 
 /* 신나는 함수 실행
 재귀 호출만 생각하면 신이 난다! 아닌가요?

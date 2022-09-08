@@ -1,4 +1,4 @@
-package _1904;
+package dynamicprogramming._1904;
 
 /* 01 타일
 

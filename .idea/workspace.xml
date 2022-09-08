@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58deef35-2d61-498a-9bd0-35f9d8fba262" name="변경" comment="4673. 셀프 넘버">
-      <change afterPath="$PROJECT_DIR$/src/_4673/Main.java" afterDir="false" />
+    <list default="true" id="58deef35-2d61-498a-9bd0-35f9d8fba262" name="변경" comment="1912. 연속합">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_1904/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicprogramming/_1904/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_1912/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicprogramming/_1912/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_24416/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicprogramming/_24416/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_9184/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicprogramming/_9184/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_9461/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicprogramming/_9461/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,23 +33,76 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="애플리케이션.dynamicprogramming._1912.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4673.Main" />
+      <option name="MAIN_CLASS_NAME" value="dynamicprogramming._24416.Main" />
       <module name="Baekjoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_4673.*" />
+          <option name="PATTERN" value="dynamicprogramming._24416.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamicprogramming._1904.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicprogramming._1904.Main" />
+      <module name="Baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamicprogramming._1904.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamicprogramming._1912.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicprogramming._1912.Main" />
+      <module name="Baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamicprogramming._1912.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamicprogramming._9184.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicprogramming._9184.Main" />
+      <module name="Baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamicprogramming._9184.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dynamicprogramming._9461.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicprogramming._9461.Main" />
+      <module name="Baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamicprogramming._9461.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,7 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Main" />
+        <item itemvalue="애플리케이션.dynamicprogramming._1912.Main" />
+        <item itemvalue="애플리케이션.dynamicprogramming._9461.Main" />
+        <item itemvalue="애플리케이션.dynamicprogramming._1904.Main" />
+        <item itemvalue="애플리케이션.dynamicprogramming._9184.Main" />
+        <item itemvalue="애플리케이션._24416.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -67,7 +128,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662464701020</updated>
-      <workItem from="1662464703312" duration="9030000" />
+      <workItem from="1662464703312" duration="11204000" />
+      <workItem from="1662514054339" duration="2392000" />
+      <workItem from="1662541513146" duration="10754000" />
+      <workItem from="1662597937638" duration="14492000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1662475957797</created>
@@ -76,7 +140,49 @@
       <option name="project" value="LOCAL" />
       <updated>1662475957797</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="4673. 셀프 넘버">
+      <created>1662476200819</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662476200819</updated>
+    </task>
+    <task id="LOCAL-00003" summary="24416. 피보나치 수 1">
+      <created>1662548243575</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662548243575</updated>
+    </task>
+    <task id="LOCAL-00004" summary="9184. 신나는 함수 실행">
+      <created>1662565910033</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662565910033</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1904. 01 타일">
+      <created>1662616075534</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662616075534</updated>
+    </task>
+    <task id="LOCAL-00006" summary="9461. 파도반 수열">
+      <created>1662624553946</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662624553946</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1912. 연속합">
+      <created>1662628610828</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662628610828</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +202,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="4673. 셀프 넘버" />
-    <option name="LAST_COMMIT_MESSAGE" value="4673. 셀프 넘버" />
+    <MESSAGE value="24416. 피보나치 수 1" />
+    <MESSAGE value="9184. 신나는 함수 실행" />
+    <MESSAGE value="1904. 01 타일" />
+    <MESSAGE value="9461. 파도반 수열" />
+    <MESSAGE value="1912. 연속합" />
+    <option name="LAST_COMMIT_MESSAGE" value="1912. 연속합" />
   </component>
 </project>

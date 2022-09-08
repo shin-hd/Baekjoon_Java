@@ -1,4 +1,4 @@
-package _9461;
+package dynamicprogramming._9461;
 
 /* 파도반 수열
 오른쪽 그림과 같이 삼각형이 나선 모양으로 놓여져 있다.

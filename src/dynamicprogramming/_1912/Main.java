@@ -1,4 +1,4 @@
-package _1912;
+package dynamicprogramming._1912;
 
 /* 연속합
 
